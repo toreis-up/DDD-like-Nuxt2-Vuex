@@ -1,5 +1,10 @@
 # ddd-practice
 
+## これは何
+
+DDDライクなフロントエンドをtyped-vuexを巻き込んで気合で書いたときのサンドボックスです。<br>
+パクリスペクト元: https://github.com/92thunder/clean-architecture-todo
+
 ## Build Setup
 
 ```bash
